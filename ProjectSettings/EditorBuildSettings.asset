@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR Fruit Ninja.unity
+    guid: 213b79a4b74955546bd8792744b67cca
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f321a2ede33f7284da7f6e81fe399dba,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6bbd148ec3637924b8de30b95d3a82ba,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f7f7347b9c2b97f49ba1d4e182b0e51b,
+      type: 2}
